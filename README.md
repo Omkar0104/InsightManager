@@ -9,6 +9,19 @@ A web-based internal hotel management system for authorized staff to manage book
 
 The insightmanager is a web application designed to facilitate the management of hotel bookings and guest information. It allows authorized staff to view, edit, and update booking details, cabin allocations, check-in and check-out information, and more.
 
+## Technologies Used
+
+- **Frontend:** React.js
+
+- **Backend:** Supabase
+
+- **Database:** PostgreSQL.
+
+- **Authentication:** JWT (provided by supabase)
+
+- **Styling:**  Tailwind
+
+
 ## Getting Started
 
 To set up the project locally, follow these steps:
